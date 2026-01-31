@@ -1,0 +1,8 @@
+{
+  "name": "Lumia Browser",
+  "description": "A Metro UI-inspired mobile browser with dynamic Live Tiles, real-time news updates, and customizable layouts.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
